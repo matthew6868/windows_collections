@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "YaPhone", "YaPhone.vcproj", "{7D7C42D8-2B77-463B-A3C7-80B58EC41D26}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OPAL_lib", "..\opal\src\win32\opal_lib_2005.vcproj", "{ED9CC7DA-08A6-4CB9-9783-F1C3799398D8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenPhone", "..\opal\samples\openphone\OpenPhone.vcproj", "{F8BDB0F3-2EE9-4FF1-851C-E4A77B8EB192}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleOPAL", "..\opal\samples\simple\simple_2005.vcproj", "{F5F40674-6CBD-459A-A2AA-EB3C084EE879}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		No Trace|Win32 = No Trace|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D7C42D8-2B77-463B-A3C7-80B58EC41D26}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7D7C42D8-2B77-463B-A3C7-80B58EC41D26}.Debug|Win32.Build.0 = Debug|Win32
+		{7D7C42D8-2B77-463B-A3C7-80B58EC41D26}.No Trace|Win32.ActiveCfg = Release|Win32
+		{7D7C42D8-2B77-463B-A3C7-80B58EC41D26}.No Trace|Win32.Build.0 = Release|Win32
+		{7D7C42D8-2B77-463B-A3C7-80B58EC41D26}.Release|Win32.ActiveCfg = Release|Win32
+		{7D7C42D8-2B77-463B-A3C7-80B58EC41D26}.Release|Win32.Build.0 = Release|Win32
+		{ED9CC7DA-08A6-4CB9-9783-F1C3799398D8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED9CC7DA-08A6-4CB9-9783-F1C3799398D8}.Debug|Win32.Build.0 = Debug|Win32
+		{ED9CC7DA-08A6-4CB9-9783-F1C3799398D8}.No Trace|Win32.ActiveCfg = No Trace|Win32
+		{ED9CC7DA-08A6-4CB9-9783-F1C3799398D8}.No Trace|Win32.Build.0 = No Trace|Win32
+		{ED9CC7DA-08A6-4CB9-9783-F1C3799398D8}.Release|Win32.ActiveCfg = Release|Win32
+		{ED9CC7DA-08A6-4CB9-9783-F1C3799398D8}.Release|Win32.Build.0 = Release|Win32
+		{F8BDB0F3-2EE9-4FF1-851C-E4A77B8EB192}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8BDB0F3-2EE9-4FF1-851C-E4A77B8EB192}.Debug|Win32.Build.0 = Debug|Win32
+		{F8BDB0F3-2EE9-4FF1-851C-E4A77B8EB192}.No Trace|Win32.ActiveCfg = Debug|Win32
+		{F8BDB0F3-2EE9-4FF1-851C-E4A77B8EB192}.No Trace|Win32.Build.0 = Debug|Win32
+		{F8BDB0F3-2EE9-4FF1-851C-E4A77B8EB192}.Release|Win32.ActiveCfg = Release|Win32
+		{F8BDB0F3-2EE9-4FF1-851C-E4A77B8EB192}.Release|Win32.Build.0 = Release|Win32
+		{F5F40674-6CBD-459A-A2AA-EB3C084EE879}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F5F40674-6CBD-459A-A2AA-EB3C084EE879}.Debug|Win32.Build.0 = Debug|Win32
+		{F5F40674-6CBD-459A-A2AA-EB3C084EE879}.No Trace|Win32.ActiveCfg = No Trace|Win32
+		{F5F40674-6CBD-459A-A2AA-EB3C084EE879}.No Trace|Win32.Build.0 = No Trace|Win32
+		{F5F40674-6CBD-459A-A2AA-EB3C084EE879}.Release|Win32.ActiveCfg = Release|Win32
+		{F5F40674-6CBD-459A-A2AA-EB3C084EE879}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

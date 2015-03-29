@@ -1,0 +1,122 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ generated include file.
+// Used by YaPhone.rc
+//
+#define IDM_ABOUTBOX                    0x0010
+#define IDD_ABOUTBOX                    100
+#define IDS_ABOUTBOX                    101
+#define IDD_FORM_H323                   101
+#define IDD_YAPHONE_DIALOG              102
+#define IDR_MAINFRAME                   128
+#define IDR_MENU1                       129
+#define IDR_MAIN_MENU                   129
+#define IDI_AUDIO_OFF                   130
+#define IDI_MIC_ON                      131
+#define IDI_AUDIO_ON                    132
+#define IDI_MIC_OFF                     133
+#define IDD_DLG_ACCOUNT                 134
+#define IDD_DLG_ANSWER                  135
+#define IDD_DLG_CHAT                    136
+#define IDD_DLG_SETUP                   137
+#define IDD_FORM_DATA                   138
+#define IDD_FORM_AUDIO                  139
+#define IDD_FORM_VIDEO_PROTOCOL         140
+#define IDD_FORM_VIDEO_SOURCE           141
+#define IDD_FORM_SIP                    142
+#define IDD_FORM_STATS_CALL             143
+#define IDD_FORM_STATS_MEDIA            144
+#define IDD_FORM_GENERAL                145
+#define IDD_FORM_CALL_SETTINGS          146
+#define IDD_FORM_NET_CONNECTION         147
+#define IDD_FORM_NET_PORTS              148
+#define IDD_FORM_NET_BANDWIDTH          149
+#define IDD_FORM_INFO                   150
+#define IDD_DIALOG1                     151
+#define IDC_BTN_CALL                    1000
+#define IDC_CMB_ADDRESS                 1001
+#define IDC_SLIDER_VOL                  1002
+#define IDC_SLIDER_MIC                  1003
+#define IDC_PROGRESS_VOL                1004
+#define IDC_PROGRESS_MIC                1005
+#define IDC_BTN_AUDIO                   1006
+#define IDC_BTN_MIC                     1007
+#define IDC_RICHEDIT_LOG                1008
+#define IDC_EDIT_NAME                   1009
+#define IDC_EDIT_REG                    1010
+#define IDC_EDIT_USER                   1011
+#define IDC_EDIT_PWD                    1012
+#define IDC_CMB_PROTOCOL                1013
+#define IDC_BTN_ANSWER                  1014
+#define IDC_BTN_REJECT                  1015
+#define IDC_STATIC_INFO                 1016
+#define IDC_BTN_SEND                    1018
+#define IDC_RICHEDIT_MSG                1019
+#define IDC_RICHEDIT_SMSG               1020
+#define IDC_STATIC_VERSION              1021
+#define IDC_BTN_APPLY                   1022
+#define IDC_BTN_RESET                   1023
+#define IDC_TREE_SETUP                  1024
+#define IDC_STATIC_TITLE                1025
+#define IDC_EDIT1                       1028
+#define IDC_EDIT2                       1029
+#define IDC_EDIT3                       1030
+#define IDC_CHECK1                      1031
+#define IDC_DLG_FRAME                   1032
+#define IDC_CHECK2                      1032
+#define IDC_EDIT5                       1032
+#define IDC_CHECK3                      1033
+#define IDC_EDIT6                       1034
+#define IDC_CHECK5                      1035
+#define IDC_EDIT7                       1035
+#define IDC_COMBO1                      1036
+#define IDC_EDIT8                       1036
+#define IDC_COMBO2                      1037
+#define IDC_CHECK4                      1037
+#define IDC_RADIO_OFF                   1037
+#define IDC_BUTTON1                     1038
+#define IDC_CHECK6                      1038
+#define IDC_RADIO_LAN                   1038
+#define IDC_CHECK7                      1039
+#define IDC_RADIO_NAT                   1039
+#define IDC_RADIO_SPEC                  1041
+#define IDC_RADIO_SEARCH                1042
+#define IDC_EDIT_GK_ADDRESS             1043
+#define IDC_EDIT_H323ID                 1044
+#define IDC_EDIT_E164                   1045
+#define IDC_EDIT_USERNAME               1047
+#define IDC_EDIT_EMAIL                  1048
+#define IDC_CHECK_ANSWER                1049
+#define IDC_EDIT_STUN                   1050
+#define IDC_SHOW                        1051
+#define IDC_CMB_VIDEO_DEVICE            1052
+#define ID_HELP_ABOUTYAPHONE            32771
+#define ID_CALL_CALL                    32772
+#define ID_CALL_HUNGUP                  32773
+#define AVA                             32774
+#define Available                       32775
+#define ID_Menu                         32776
+#define ID_CALL_AVAILABLE               32777
+#define ID_CALL_AUTOANSWER              32778
+#define ID_CALL_DON                     32779
+#define ID_CALL_FORWARD                 32780
+#define ID_CALL_EXIT                    32781
+#define ID_EDIT_ACCOUNT                 32782
+#define ID_EDIT_PREFERENCES             32783
+#define ID_VIEW_ALWAYSONTOP             32784
+#define ID_VIEW_VIDEOSIZE               32785
+#define ID_VIEW_DIALPAD                 32786
+#define ID_TOOLS_CHATWITH               32787
+#define ID_VIDEOSIZE_SMALL              32788
+#define ID_VIDEOSIZE_MEDUAL             32789
+#define ID_VIDEOSIZE_LARGE              32790
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        152
+#define _APS_NEXT_COMMAND_VALUE         32791
+#define _APS_NEXT_CONTROL_VALUE         1053
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
